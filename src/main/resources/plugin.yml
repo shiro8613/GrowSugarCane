@@ -1,0 +1,5 @@
+name: GrowSugarCane
+version: '${project.version}'
+main: com.github.shiro8613.growsugarcane.GrowSugarCane
+api-version: 1.19
+authors: [ shiro8613 ]
