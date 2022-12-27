@@ -1,0 +1,8 @@
+#クールダウン
+coolDownTick: 5
+
+#干渉範囲
+interferenceRadius: 7
+
+#最大成長数
+maxGrowth: 3
